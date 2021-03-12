@@ -16,4 +16,4 @@
 
 사진을 걸도록 하겠습니다.
 
-![image](https://user-images.githubusercontent.com/80079715/110878788-3026b500-831f-11eb-8ff3-675937b784cb.png)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8QjxUo5HkqZ3spoP5FBKcY-YGOIS4PinytQ&usqp=CAU)
