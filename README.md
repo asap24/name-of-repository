@@ -20,6 +20,6 @@
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWuh3IrA5RkqIUHzcAHRFowLfwlv1hVVt1Q&usqp=CAU)
 
-![동영상](https://youtu.be/TNkM5_nf01U)
+[동영상](https://youtu.be/TNkM5_nf01U)
 
 [![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWuh3IrA5RkqIUHzcAHRFowLfwlv1hVVt1Q&usqp=CAU)](https://youtu.be/TNkM5_nf01U)
