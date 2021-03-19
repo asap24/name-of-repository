@@ -20,4 +20,4 @@
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWuh3IrA5RkqIUHzcAHRFowLfwlv1hVVt1Q&usqp=CAU)
 
-![[image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWuh3IrA5RkqIUHzcAHRFowLfwlv1hVVt1Q&usqp=CAU)](https://youtu.be/LSoqvbOvTxE)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWuh3IrA5RkqIUHzcAHRFowLfwlv1hVVt1Q&usqp=CAU)(https://youtu.be/LSoqvbOvTxE)
